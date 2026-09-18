@@ -386,7 +386,7 @@ section.tight{ padding:72px 0; }
   display:flex; align-items:center; justify-content:center; transition:.25s var(--ease);
 }
 .social-row a:hover{ background:var(--ink); border-color:var(--ink); color:#fff; }
-.social-row svg{ width:18px; height:18px; }
+.social-row svg{ width:28px; height:28px; stroke:currentColor; }
 
 /* ---------- treatment inner page ---------- */
 .treat-hero{ background:var(--ivory); padding:60px 0 56px; }
